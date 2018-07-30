@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(seconds_to_midnight)
-  while number > 0
+  while seconds_to_midnight > 0
     puts "#{number} SECOND(S)!"
     number -= 1
   end
