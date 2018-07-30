@@ -7,7 +7,7 @@ def countdown(seconds_to_midnight)
   end
   "HAPPY NEW YEAR!"
 end
-#countdown(10)
+countdown(10)
 
 def countdown(seconds_to_midnight)
   until seconds_to_midnight == 0
